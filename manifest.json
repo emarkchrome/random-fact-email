@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Random Fact Email",
   "description": "Puts a random fact in your email signature",
-  "version": "0.3",
+  "version": "0.4",
   "icons": {
     "32": "icons/icon32.png",
     "64": "icons/icon64.png",
