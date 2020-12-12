@@ -1,0 +1,15 @@
+{
+  "name": "random-fact-email",
+  "version": "1.0.0",
+  "description": "Development package for the Random Fact Email Extension",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-ext run"
+  },
+  "keywords": [],
+  "author": "Emmanuel Mark",
+  "license": "ISC",
+  "dependencies": {
+    "web-ext": "^5.4.1"
+  }
+}
